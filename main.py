@@ -7,7 +7,7 @@ from appium.webdriver.common.appiumby import AppiumBy
 capabilities = dict(
     platformName='Android',
     automationName='uiautomator2',
-    deviceName='Android',
+    deviceName='Pixel 7',
     language='en',
     locale='US'
 )
